@@ -2,12 +2,141 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Band">
     <display-name lang="pt">Band</display-name>
-    <icon src="http://www.lineup.tv.br/canais/corporacion.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Band SP">
-    <display-name lang="pt">Band SP</display-name>
-    <icon src="http://www.lineup.tv.br/canais/amplishoptv.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
+  <programme start="20190531003000 -0300" stop="20190531011500 -0300" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531011500 -0300" stop="20190531012000 -0300" channel="Band">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531012000 -0300" stop="20190531013500 -0300" channel="Band">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531013500 -0300" stop="20190531033000 -0300" channel="Band">
+    <title lang="pt">O Mais Rápido Game Show</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531033000 -0300" stop="20190531050000 -0300" channel="Band">
+    <title lang="pt">Jogo Aberto</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531050000 -0300" stop="20190531060000 -0300" channel="Band">
+    <title lang="pt">Os Donos da Bola</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531060000 -0300" stop="20190531070000 -0300" channel="Band">
+    <title lang="pt">Jornal Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531070000 -0300" stop="20190531073000 -0300" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531073000 -0300" stop="20190531080000 -0300" channel="Band">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531080000 -0300" stop="20190531090000 -0300" channel="Band">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531090000 -0300" stop="20190531110000 -0300" channel="Band">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531110000 -0300" stop="20190531123000 -0300" channel="Band">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531123000 -0300" stop="20190531140000 -0300" channel="Band">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531140000 -0300" stop="20190531150000 -0300" channel="Band">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531150000 -0300" stop="20190531160000 -0300" channel="Band">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531160000 -0300" stop="20190531185000 -0300" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531185000 -0300" stop="20190531192000 -0300" channel="Band">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531192000 -0300" stop="20190531202500 -0300" channel="Band">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531202500 -0300" stop="20190531211000 -0300" channel="Band">
+    <title lang="pt">Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531211000 -0300" stop="20190531215700 -0300" channel="Band">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531215700 -0300" stop="20190531220000 -0300" channel="Band">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190531220000 -0300" stop="20190601000000 -0300" channel="Band">
+    <title lang="pt">Música Na Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
 </tv>
