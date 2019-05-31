@@ -4,6 +4,26 @@
     <display-name lang="pt">Band</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="CNT">
+    <display-name lang="pt">CNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20190531003000 -0300" stop="20190531011500 -0300" channel="Band">
     <title lang="pt">Jornal da Noite</title>
     <star-rating>
